@@ -12,7 +12,7 @@ function logShout(s){
 }
 
 function logWhisper(s){
-  console.loh(whisper(s));
+  console.log(whisper(s));
   return;
 }
 
