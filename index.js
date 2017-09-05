@@ -8,12 +8,12 @@ function whisper(w){
 
 function logShout(s){
   console.log(shout(s));
-  reutrn;
+  return;
 }
 
 function logWhisper(s){
   console.loh(whisper(s));
-  reutrn;
+  return;
 }
 
 function sayHiToGrandma(s){
